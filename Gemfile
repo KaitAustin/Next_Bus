@@ -29,8 +29,6 @@ gem 'puma'
 
 gem 'bootstrap-sass', '~> 3.3.6'
 
-gem 'sass-rails', '>= 3.2'
-
 gem 'font-awesome-rails'
 
 # Use ActiveModel has_secure_password
